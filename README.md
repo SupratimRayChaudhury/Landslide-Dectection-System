@@ -1,6 +1,7 @@
 # Landslide Detection System
 
-Welcome to the Landslide Detection System repository
+Welcome to the Landslide Detection System repository!!!!
+
 ## Introduction
 This project aims to develop a cost-effective landslide detection system. Initially, we focus on integrating various sensors using Arduino or Raspberry Pi boards. These sensors include:
 - Moisture sensor
